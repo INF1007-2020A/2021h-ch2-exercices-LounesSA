@@ -3,7 +3,7 @@
 def majuscule(mot):
     # TODO completer la fonction ici
     return mot
-
+    x=2
 
 if __name__ == '__main__':
     mots = [
